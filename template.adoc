@@ -6,4 +6,4 @@ v0.1, March 2021:
 Initial draft
 
 
-= . Purpose of this Document=
+= . Purpose of this Document =
