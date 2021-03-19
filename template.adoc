@@ -4,3 +4,6 @@ Initial Template
 Will Etson <will.etson@gmail.com>
 v0.1, March 2021:
 Initial draft
+
+
+= . Purpose of this Document=
